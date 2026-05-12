@@ -90,7 +90,7 @@ function scrollToForm(){
 
 (function(){
 
-  emailjs.init("YOUR_PUBLIC_KEY");
+  emailjs.init("86oxutkeoWpA4yYZN");
 
 })();
 
