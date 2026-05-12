@@ -124,8 +124,8 @@ if(leadForm){
     };
 
     emailjs.send(
-      "YOUR_SERVICE_ID",
-      "YOUR_TEMPLATE_ID",
+      "service_5sawhwh",
+      "template_ch1ahob",
       params
     )
 
